@@ -1,5 +1,4 @@
-# SciComp
-Scientific Computation Projects
+# Scientific Computation Projects
 
 - Project 1 (Data Structures and Algorithms): 65%
 - Project 2 (Nonlinear ODEs Numerical Solutions): 80%
